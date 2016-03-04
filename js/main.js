@@ -8,7 +8,22 @@ var insects = [
   },
   {
     name: 'Dung Beetle',
-  }
+    family: 'Scarabidae',
+    size: '20-30',
+    eats: 'Dung',
+  },
+  {
+    name: 'Stag Beetle',
+    family: 'Lucanidae',
+    size: '5-120',
+    eats: 'Plants',
+  },
+  {
+    name: 'Tortoise Beetle',
+    family: 'Cassidanae',
+    size: '1-18',
+    eats: 'Plants',
+  },
 ]
 
 // ##########################################################
