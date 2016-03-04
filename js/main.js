@@ -1,5 +1,15 @@
 // Create your variable here, name it `insects`
-
+var insects = [
+  {
+    name: 'Aunt Nest Beetle',
+    family: 'Carabidae',
+    size: '6-20',
+    eats: 'Insects',
+  },
+  {
+    name: 'Dung Beetle',
+  }
+]
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
