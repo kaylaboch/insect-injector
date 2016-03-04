@@ -1,25 +1,29 @@
 // Create your variable here, name it `insects`
 var insects = [
   {
-    name: 'Aunt Nest Beetle',
+    name: 'Ant Nest Beetle',
+    img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: '6-20',
     eats: 'Insects',
   },
   {
     name: 'Dung Beetle',
+    img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: '20-30',
     eats: 'Dung',
   },
   {
     name: 'Stag Beetle',
+    img: 'stag-beetle.jpg',
     family: 'Lucanidae',
     size: '5-120',
     eats: 'Plants',
   },
   {
     name: 'Tortoise Beetle',
+    img: 'tortoise-beetle.jpg'
     family: 'Cassidanae',
     size: '1-18',
     eats: 'Plants',
