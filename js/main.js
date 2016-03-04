@@ -44,7 +44,7 @@ var insects = [
       eatsPlants: true,
     }
   },
-]
+];
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
