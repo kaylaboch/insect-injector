@@ -23,8 +23,8 @@ var insects = [
   },
   {
     name: 'Tortoise Beetle',
-    img: 'tortoise-beetle.jpg'
-    family: 'Cassidanae',
+    img: 'tortoise-beetle.jpg',
+    family: 'Cassidinae',
     size: '1-18',
     eats: 'Plants',
   },
